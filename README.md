@@ -1,6 +1,6 @@
 # Board
 
-The day is not the Gantt. It is the few things freezing a crew right now.
+The day is not the Gantt. It is the six things freezing a crew right now.
 
 Each card has an owner, what it is waiting on, and a clock. Move a card to Ready and the people waiting are the point.
 
